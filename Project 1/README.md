@@ -1,1 +1,1 @@
-Constraint programming in MiniZinc for multi agrent path finiding problem.
+Constraint programming in MiniZinc for multi agent path finiding problem.
